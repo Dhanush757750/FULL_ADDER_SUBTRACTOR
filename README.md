@@ -35,13 +35,8 @@ A full subtractor is a combinational circuit that performs subtraction involving
 Diff = A ⊕ B ⊕ Bin 
 
 Borrow out = A'Bin + A'B + BBin
-
-**Truthtable**
-
-**Procedure**
-
-Write the detailed procedure here
-
+# NAME:C.DHANUSH
+# REGISTER NO:212224040066
 **Program:**
 ```
 module EX_04(a,b,sum,cin,carry,bin,BO,DIFF);
